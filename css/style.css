@@ -603,6 +603,16 @@ footer .wrap {
   gap: 12px;
 }
 
+.visitor-counter {
+  margin-top: 6px;
+  font-size: 13px;
+}
+
+.visitor-counter strong {
+  color: var(--fg);
+  font-weight: 700;
+}
+
 :focus-visible {
   outline: 2px solid var(--y);
   outline-offset: 3px;
